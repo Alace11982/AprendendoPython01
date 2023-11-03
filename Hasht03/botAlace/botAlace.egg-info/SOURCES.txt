@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botAlace/__init__.py
+botAlace/__main__.py
+botAlace/bot.py
+botAlace.egg-info/PKG-INFO
+botAlace.egg-info/SOURCES.txt
+botAlace.egg-info/dependency_links.txt
+botAlace.egg-info/requires.txt
+botAlace.egg-info/top_level.txt
+botAlace/resources/start.png
