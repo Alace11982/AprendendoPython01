@@ -1,0 +1,5 @@
+Fazendo o webscraping no site imdb para pegar informações sobre filmes
+
+class="sc-c7e5f54-0 gytZrF cli-children" => caixa completa sem imagem
+class="ipc-title__text" => Titulo dos filmes
+class="sc-c7e5f54-8 hgjcbi cli-title-metadata-item" => ano do filmes
